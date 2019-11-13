@@ -1,1 +1,4 @@
 print ("Hello World")
+/*
+Fonction qui affiche Hello World
+*/
